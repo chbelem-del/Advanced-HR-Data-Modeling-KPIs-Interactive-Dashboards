@@ -49,14 +49,6 @@ HR-Analytics/
 └── README.md
 ```
 
----
-
-## 📷 Dashboard Preview
-
-> Dashboard screenshots are available in the **Images** folder.
-
----
-
 ## 🎯 Learning Outcomes
 
 - Data modeling using Star Schema
